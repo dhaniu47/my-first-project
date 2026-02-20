@@ -13,6 +13,8 @@ The goal of this project was to:
 - Practice frontend fundamentals
 - Improve UI structuring
 - Understand browser-based logic implementation
+## Screenshots
+![LeetMetric Preview](Screenshot%202026-02-20%20213434.png)
 
 ##  Features
 - Responsive layout
